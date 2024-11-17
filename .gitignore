@@ -33,6 +33,8 @@ logs/
 file/202311
 file/202401
 
+application.properties
+
 ### VS Code ###
 .vscode/
 
